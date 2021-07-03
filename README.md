@@ -4,7 +4,7 @@ A simple network sniffing tool written in Python.
 
 # Demo
 
-![Network-Sniffer](DEMO1.mp4)
+![Network-Sniffer](DEMO1.gif)
 
 # Usage
 
