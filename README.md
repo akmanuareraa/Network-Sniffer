@@ -12,4 +12,3 @@ A simple network sniffing tool written in Python.
 
 ```python3 Network_Sniffer.py -v 2```
 
-# NOTE: Always open to suggestions, bugs, improvements.
